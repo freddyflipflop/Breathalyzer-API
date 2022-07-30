@@ -2,6 +2,7 @@ from urllib import response
 import requests
 import os
 import json
+#Add url for detection
 url_detect = ""
 
 def switch(alcohol_content):
